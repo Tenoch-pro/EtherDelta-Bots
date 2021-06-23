@@ -1,4 +1,4 @@
-# EtherDelta bot sample code
+# EtherDelta bot code
 
 For API documentation, see https://github.com/etherdelta/etherdelta.github.io/tree/master/docs.
 
